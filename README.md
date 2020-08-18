@@ -1,8 +1,6 @@
 "# lamamia-project" 
 
 
-
-
 **for client side 
        - yarn start
 
