@@ -1,11 +1,11 @@
 "# lamamia-project" 
 
 
-**for client side 
+**for client side** 
        - yarn start
 
 
 
 
-**for server side
+**for server side**
        - node server.js
